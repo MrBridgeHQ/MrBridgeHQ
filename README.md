@@ -22,11 +22,11 @@
 
 ## 🌉 What we build
 
-MrBridge builds the infrastructure that turns scattered web data into usable intelligence — for wine merchants tracking Burgundy prices, gamers optimizing TFT compositions, VCs analyzing pitch decks, and teams automating their stack.
+MrBridge builds the infrastructure that turns scattered web data into usable intelligence - for wine merchants tracking Burgundy prices, gamers optimizing TFT compositions, VCs analyzing pitch decks, and teams automating their stack.
 
 | Pillar | What it does |
 |---|---|
-| 🔵 **Collect** | Web scrapers built for resilience — Camoufox, residential proxies, session pools, structured output |
+| 🔵 **Collect** | Web scrapers built for resilience - Camoufox, residential proxies, session pools, structured output |
 | 🟣 **Connect** | MCP (Model Context Protocol) servers that plug any data source into Claude, ChatGPT, Cursor, and any MCP-compatible client |
 | 🟠 **Analyze** | End-to-end AI workflows that go from raw data to investment memos, market analyses, and coaching reports |
 
@@ -35,21 +35,21 @@ MrBridge builds the infrastructure that turns scattered web data into usable int
 ## ⭐ Featured solutions
 
 ### 🍷 Wine intelligence
-- **[Vivino Wine Scraper](https://apify.com/mrbridge/vivino-wine-data-scraper?fpr=mrbridge)** — Ratings, reviews, prices, vintages, taste profiles. Filter by region, grape, producer. JSON / CSV / Excel.
-- **[Millesima Wine Scraper](https://apify.com/mrbridge/millesima-wine-scraper?fpr=mrbridge)** — Prices, vintages, appellations, and critic ratings from 8 publications including Parker and Wine Spectator.
+- **[Vivino Wine Scraper](https://apify.com/mrbridge/vivino-wine-data-scraper?fpr=mrbridge)** - Ratings, reviews, prices, vintages, taste profiles. Filter by region, grape, producer. JSON / CSV / Excel.
+- **[Millesima Wine Scraper](https://apify.com/mrbridge/millesima-wine-scraper?fpr=mrbridge)** - Prices, vintages, appellations, and critic ratings from 8 publications including Parker and Wine Spectator.
 
 ### 🎮 Gaming & sports MCP servers
-- **[ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge)** — 12 tools for live scores, standings, betting odds & stats across 25+ leagues.
-- **[League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge)** — 13 tools: player profiles, ranked stats, match history, mastery, live game, AI coaching.
-- **[Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)** — 13 tools for TFT players, with Claude-powered performance coaching.
+- **[ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge)** - 12 tools for live scores, standings, betting odds & stats across 25+ leagues.
+- **[League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge)** - 13 tools: player profiles, ranked stats, match history, mastery, live game, AI coaching.
+- **[Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)** - 13 tools for TFT players, with Claude-powered performance coaching.
 
 ### 📰 Productivity & news MCP servers
-- **[Latest News MCP Server](https://apify.com/mrbridge/latest-news-mcp-server?fpr=mrbridge)** — 14 tools: AP, BBC, NPR, Hacker News, Google News, crypto prices, earthquakes. No API keys.
-- **[Todoist AI Assistant](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge)** — 35 tools for Todoist with smart prioritization, focus mode, and daily digest.
+- **[Latest News MCP Server](https://apify.com/mrbridge/latest-news-mcp-server?fpr=mrbridge)** - 14 tools: AP, BBC, NPR, Hacker News, Google News, crypto prices, earthquakes. No API keys.
+- **[Todoist AI Assistant](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge)** - 35 tools for Todoist with smart prioritization, focus mode, and daily digest.
 
 ### 💼 AI workflows for investors
-- **[AI Dealflow Analysis](https://apify.com/mrbridge/ai-dealflow-analysis?fpr=mrbridge)** — Upload a pitch deck → full investment memo: unit economics, valuation, market sizing, team verification, red flags.
-- **[Pitch Deck Credibility Analyzer](https://apify.com/mrbridge/pitch-deck-credibility-analyzer?fpr=mrbridge)** — 6 specialized AI agents score decks from 0–100 on financial, commercial, team & presentation dimensions.
+- **[AI Dealflow Analysis](https://apify.com/mrbridge/ai-dealflow-analysis?fpr=mrbridge)** - Upload a pitch deck → full investment memo: unit economics, valuation, market sizing, team verification, red flags.
+- **[Pitch Deck Credibility Analyzer](https://apify.com/mrbridge/pitch-deck-credibility-analyzer?fpr=mrbridge)** - 6 specialized AI agents score decks from 0–100 on financial, commercial, team & presentation dimensions.
 
 → **[Browse the full catalog on mr-bridge.com](https://mr-bridge.com/solutions)**
 
@@ -63,10 +63,10 @@ MrBridge builds the infrastructure that turns scattered web data into usable int
 
 ## 🤝 Get in touch
 
-- 🌐 **Website** — [mr-bridge.com](https://mr-bridge.com)
-- 🛒 **Apify Store** — [apify.com/mrbridge](https://apify.com/mrbridge?fpr=mrbridge)
-- 📬 **Email** — hello@mr-bridge.com
-- 📰 **Articles & Studies** — [mr-bridge.com/articles](https://mr-bridge.com/articles) · [mr-bridge.com/studies](https://mr-bridge.com/studies)
+- 🌐 **Website** - [mr-bridge.com](https://mr-bridge.com)
+- 🛒 **Apify Store** - [apify.com/mrbridge](https://apify.com/mrbridge?fpr=mrbridge)
+- 📬 **Email** - hello@mr-bridge.com
+- 📰 **Articles & Studies** - [mr-bridge.com/articles](https://mr-bridge.com/articles) · [mr-bridge.com/studies](https://mr-bridge.com/studies)
 
 ---
 
