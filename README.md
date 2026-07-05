@@ -15,6 +15,7 @@
     <a href="https://mr-bridge.com"><img src="https://img.shields.io/badge/Website-mr--bridge.com-3b82f6?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
     <a href="https://apify.com/mrbridge?fpr=mrbridge"><img src="https://img.shields.io/badge/Apify-Store-f59e0b?style=for-the-badge&logo=apify&logoColor=white" alt="Apify" /></a>
     <a href="https://mr-bridge.com/studies"><img src="https://img.shields.io/badge/Studies-Read-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Studies" /></a>
+    <a href="https://mr-bridge.com/skills"><img src="https://img.shields.io/badge/Agent_Skills-17_free-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Agent Skills" /></a>
   </p>
 </div>
 
@@ -52,6 +53,14 @@ MrBridge builds the infrastructure that turns scattered web data into usable int
 - **[Pitch Deck Credibility Analyzer](https://apify.com/mrbridge/pitch-deck-credibility-analyzer?fpr=mrbridge)** - 6 specialized AI agents score decks from 0–100 on financial, commercial, team & presentation dimensions.
 
 → **[Browse the full catalog on mr-bridge.com](https://mr-bridge.com/solutions)**
+
+---
+
+## 🧩 Agent Skills
+
+17 free, open-source Agent Skills that teach an AI agent a craft: SEO audits, scraper building, Apify, human-sounding writing, GA4 analysis, profile optimization, and more. Each ships for **Claude Code** and, where available, for **Codex / ChatGPT**.
+
+→ **[Skills hub on mr-bridge.com](https://mr-bridge.com/skills)** · **[GitHub catalog](https://github.com/MrBridgeHQ/skills)**
 
 ---
 
