@@ -81,4 +81,6 @@ MrBridge builds the infrastructure that turns scattered web data into usable int
 
 <div align="center">
   <sub>Made with care · Bridging data sources to the tools that make them useful.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=MrBridgeHQ&color=8b5cf6&style=flat-square&label=Profile+views" alt="Profile views" />
 </div>
