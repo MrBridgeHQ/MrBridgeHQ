@@ -42,14 +42,14 @@ MrBridge builds the infrastructure that turns scattered web data into usable int
 ### 🎮 Gaming & sports MCP servers
 - **[ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge)** - 12 tools for live scores, standings, betting odds & stats across 25+ leagues.
 - **[League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge)** - 13 tools: player profiles, ranked stats, match history, mastery, live game, AI coaching.
-- **[Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)** - 13 tools for TFT players, with Claude-powered performance coaching.
+- **[Teamfight Tactics MCP Server](https://apify.com/mrbridge/tft-mcp-server)** - 13 tools for TFT players, with Claude-powered performance coaching.
 
 ### 📰 Productivity & news MCP servers
 - **[Latest News MCP Server](https://apify.com/mrbridge/latest-news-mcp-server?fpr=mrbridge)** - 14 tools: AP, BBC, NPR, Hacker News, Google News, crypto prices, earthquakes. No API keys.
 - **[Todoist AI Assistant](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge)** - 35 tools for Todoist with smart prioritization, focus mode, and daily digest.
 
 ### 💼 AI workflows for investors
-- **[AI Dealflow Analysis](https://apify.com/mrbridge/ai-dealflow-analysis?fpr=mrbridge)** - Upload a pitch deck → full investment memo: unit economics, valuation, market sizing, team verification, red flags.
+- **[AI Dealflow Analysis](https://apify.com/mrbridge/AI-dealflow-analysis)** - Upload a pitch deck → full investment memo: unit economics, valuation, market sizing, team verification, red flags.
 - **[Pitch Deck Credibility Analyzer](https://apify.com/mrbridge/pitch-deck-credibility-analyzer?fpr=mrbridge)** - 6 specialized AI agents score decks from 0–100 on financial, commercial, team & presentation dimensions.
 
 → **[Browse the full catalog on mr-bridge.com](https://mr-bridge.com/solutions)**
